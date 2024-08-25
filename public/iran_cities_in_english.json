@@ -2,20 +2,20 @@
 	{
 		"name": "East Azerbaijan",
 		"center": "Tabriz",
-		"latitude": "38.50",
-		"longitude": "46.180",
+		"latitude": "37.90",
+		"longitude": "46.26",
 		"cities": [
 			{ "name": "Tabriz", "latitude": "38.50", "longitude": "46.180", "id": 1 },
 			{
 				"name": "Maragheh",
-				"latitude": "37.2335",
-				"longitude": "46.1439",
+				"latitude": "37.38",
+				"longitude": "46.23",
 				"id": 2
 			},
 			{
 				"name": "Miyaneh",
-				"latitude": "37.230",
-				"longitude": "47.450",
+				"latitude": "37.42",
+				"longitude": "47.72",
 				"id": 3
 			},
 			{
